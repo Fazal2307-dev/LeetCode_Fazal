@@ -64,4 +64,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
