@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
