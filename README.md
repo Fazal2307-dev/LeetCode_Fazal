@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -69,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -115,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0024-swap-nodes-in-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 <!---LeetCode Topics End-->
