@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0025-reverse-nodes-in-k-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0025-reverse-nodes-in-k-group) |
 ## Topological Sort
 |  |
 | ------- |
