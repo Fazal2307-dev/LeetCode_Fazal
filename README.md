@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0060-permutation-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0060-permutation-sequence) |
 ## Topological Sort
 |  |
 | ------- |
