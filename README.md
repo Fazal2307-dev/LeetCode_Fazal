@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0038-count-and-say) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0031-next-permutation) |
+| [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
