@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
