@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0060-permutation-sequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
