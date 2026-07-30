@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0065-valid-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0046-permutations) |
