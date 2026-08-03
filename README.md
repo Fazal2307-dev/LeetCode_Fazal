@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0059-spiral-matrix-ii) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
