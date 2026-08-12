@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -416,5 +419,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
