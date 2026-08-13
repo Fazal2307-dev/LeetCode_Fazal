@@ -431,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
