@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0059-spiral-matrix-ii) |
+| [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
