@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3532-path-existence-queries-in-a-graph-i) |
