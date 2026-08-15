@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0065-valid-number) |
 | [0071-simplify-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3090-maximum-length-substring-with-two-occurrences) |
