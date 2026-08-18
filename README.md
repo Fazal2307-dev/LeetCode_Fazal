@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -467,8 +470,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 ## Quickselect
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
