@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
