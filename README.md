@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
@@ -387,12 +388,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -497,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
