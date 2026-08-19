@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -504,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
