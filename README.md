@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
+| [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
 |  |
