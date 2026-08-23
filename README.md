@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0036-valid-sudoku) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
