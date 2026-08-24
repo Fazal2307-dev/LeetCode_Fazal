@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 ## Memoization
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -491,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
