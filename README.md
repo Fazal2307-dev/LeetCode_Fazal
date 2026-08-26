@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
