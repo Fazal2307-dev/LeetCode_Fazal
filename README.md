@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1406-stone-game-iii) |
+| [1416-restore-the-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1416-restore-the-array) |
 | [1510-stone-game-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1690-stone-game-vii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1416-restore-the-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1416-restore-the-array) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2468-split-message-based-on-limit](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2468-split-message-based-on-limit) |
