@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0091-decode-ways) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
