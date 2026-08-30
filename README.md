@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
@@ -606,4 +608,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
