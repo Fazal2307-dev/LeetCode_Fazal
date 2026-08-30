@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
