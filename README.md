@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -635,16 +636,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
