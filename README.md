@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
