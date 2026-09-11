@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3483-unique-3-digit-even-numbers) |
 ## Topological Sort
 |  |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1291-sequential-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2468-split-message-based-on-limit](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2468-split-message-based-on-limit) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3483-unique-3-digit-even-numbers) |
