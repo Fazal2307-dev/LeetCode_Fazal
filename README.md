@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -790,4 +793,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
