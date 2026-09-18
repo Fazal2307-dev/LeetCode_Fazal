@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
