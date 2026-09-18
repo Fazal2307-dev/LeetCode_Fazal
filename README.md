@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1416-restore-the-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1416-restore-the-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1987-number-of-unique-good-subsequences) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
