@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3568-minimum-moves-to-clean-the-classroom) |
