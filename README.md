@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2468-split-message-based-on-limit](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2468-split-message-based-on-limit) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -853,4 +855,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
