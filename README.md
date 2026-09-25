@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1416-restore-the-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1416-restore-the-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -649,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
