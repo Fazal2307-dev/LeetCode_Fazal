@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
@@ -717,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -755,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3093-longest-common-suffix-queries) |
 ## Sliding Window
@@ -881,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
