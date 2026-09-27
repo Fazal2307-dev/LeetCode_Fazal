@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1416-restore-the-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1416-restore-the-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
