@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
