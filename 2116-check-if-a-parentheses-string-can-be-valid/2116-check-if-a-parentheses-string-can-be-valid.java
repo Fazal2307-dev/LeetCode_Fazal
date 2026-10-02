@@ -1,5 +1,6 @@
 class Solution {
     public boolean canBeValid(String s, String locked) {
+        
          int stringLength = s.length();
         if (stringLength % 2 == 1) {
             return false;
