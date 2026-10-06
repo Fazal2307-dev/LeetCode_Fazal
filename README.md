@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1987-number-of-unique-good-subsequences) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0148-sort-list) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -922,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Fermat's Little Theorem
