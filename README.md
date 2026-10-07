@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
