@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bidirectional Search
@@ -973,4 +977,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
