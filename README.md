@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1987-number-of-unique-good-subsequences) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
 | [1386-cinema-seat-allocation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1386-cinema-seat-allocation) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
@@ -801,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Minimax
 |  |
 | ------- |
@@ -849,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quicksort
 |  |
@@ -990,4 +998,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
