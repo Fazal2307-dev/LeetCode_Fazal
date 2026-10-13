@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0856-score-of-parentheses) |
