@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0633-sum-of-square-numbers) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
