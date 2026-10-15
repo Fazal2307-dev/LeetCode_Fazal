@@ -756,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0856-score-of-parentheses) |
@@ -899,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0155-min-stack) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Binary Indexed Tree
 |  |
