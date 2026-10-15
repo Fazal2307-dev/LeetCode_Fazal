@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3171-find-subarray-with-bitwise-or-closest-to-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3171-find-subarray-with-bitwise-or-closest-to-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
