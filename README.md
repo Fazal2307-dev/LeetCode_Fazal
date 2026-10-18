@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0486-predict-the-winner) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Binary Indexed Tree
 |  |
