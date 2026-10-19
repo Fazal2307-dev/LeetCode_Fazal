@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1982-find-array-given-subset-sums](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1982-find-array-given-subset-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
