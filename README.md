@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0633-sum-of-square-numbers) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0633-sum-of-square-numbers) |
