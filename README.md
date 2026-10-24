@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2409-count-days-spent-together) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
