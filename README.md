@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
