@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
+| [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1632-rank-transform-of-a-matrix) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
@@ -712,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3310-remove-methods-from-project) |
