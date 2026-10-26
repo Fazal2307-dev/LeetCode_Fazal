@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -719,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
