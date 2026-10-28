@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0856-score-of-parentheses) |
@@ -970,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
 | [2286-booking-concert-tickets-in-groups](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2286-booking-concert-tickets-in-groups) |
 ## Binary Indexed Tree
@@ -1005,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
@@ -1036,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1117,4 +1122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
