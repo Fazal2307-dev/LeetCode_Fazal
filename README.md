@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0289-game-of-life) |
 | [0835-image-overlap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
@@ -831,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3069-distribute-elements-into-two-arrays-i) |
