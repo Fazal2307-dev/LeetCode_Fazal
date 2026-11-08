@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0289-game-of-life) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1291-sequential-digits) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2468-split-message-based-on-limit](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2468-split-message-based-on-limit) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1195,4 +1199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
