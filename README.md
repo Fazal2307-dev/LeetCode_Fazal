@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2747-count-zero-request-servers) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2747-count-zero-request-servers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2747-count-zero-request-servers) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2054-two-best-non-overlapping-events) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3867-sum-of-gcd-of-formed-pairs) |
