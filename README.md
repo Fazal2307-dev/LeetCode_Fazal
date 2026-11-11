@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1096-brace-expansion-ii) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0338-counting-bits) |
 | [0464-can-i-win](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0464-can-i-win) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0214-shortest-palindrome) |
 ## Game Theory
 |  |
@@ -1013,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1225,4 +1231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
