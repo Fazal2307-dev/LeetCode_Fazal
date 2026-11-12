@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0212-word-search-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0410-split-array-largest-sum) |
