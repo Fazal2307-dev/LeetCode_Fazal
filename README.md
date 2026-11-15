@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0189-rotate-array) |
 | [0443-string-compression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0268-missing-number) |
