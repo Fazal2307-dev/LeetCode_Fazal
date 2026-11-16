@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2029-stone-game-ix](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2409-count-days-spent-together) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0204-count-primes) |
 | [1819-number-of-different-subsequences-gcds](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1819-number-of-different-subsequences-gcds) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/3312-sorted-gcd-pair-queries) |
