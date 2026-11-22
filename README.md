@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1690-stone-game-vii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1690-stone-game-vii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
 | [1872-stone-game-viii](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1872-stone-game-viii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1745-palindrome-partitioning-iv](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1927-sum-game) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Fazal2307-dev/LeetCode_Fazal/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
